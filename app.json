@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "DebtTracker",
-    "slug": "DebtTracker",
+    "slug": "debttracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "890417e0-21fa-4ca6-8b20-9cdcddf848f8"
+      }
+    },
+    "owner": "bukvam"
   }
 }

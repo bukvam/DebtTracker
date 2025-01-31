@@ -1,0 +1,128 @@
+[
+  {
+    "code": "EUR",
+    "name": "Euro",
+    "region": "European Union (EU)",
+    "symbol": "€"
+  },
+  {
+    "code": "PLN",
+    "name": "Poland Zloty",
+    "region": "European Union (EU)",
+    "symbol": "zł"
+  },
+  {
+    "code": "BGN",
+    "name": "Bulgaria Lev",
+    "region": "European Union (EU)",
+    "symbol": "лв"
+  },
+  {
+    "code": "RON",
+    "name": "Romania Leu",
+    "region": "European Union (EU)",
+    "symbol": "lei"
+  },
+  {
+    "code": "CZK",
+    "name": "Czech Koruna",
+    "region": "European Union (EU)",
+    "symbol": "Kč"
+  },
+  {
+    "code": "HUF",
+    "name": "Hungary Forint",
+    "region": "European Union (EU)",
+    "symbol": "Ft"
+  },
+  {
+    "code": "SEK",
+    "name": "Sweden Krona",
+    "region": "European Union (EU)",
+    "symbol": "kr"
+  },
+  {
+    "code": "DKK",
+    "name": "Denmark Krone",
+    "region": "European Union (EU)",
+    "symbol": "kr"
+  },
+  {
+    "code": "CHF",
+    "name": "Switzerland/ Liechtenstein Frank",
+    "region": "European Free Trade Association (EFTA)",
+    "symbol": "CHF"
+  },
+  {
+    "code": "ISK",
+    "name": "Iceland Krona",
+    "region": "European Free Trade Association (EFTA)",
+    "symbol": "kr"
+  },
+  {
+    "code": "NOK",
+    "name": "Norway Krone",
+    "region": "European Free Trade Association (EFTA)",
+    "symbol": "kr"
+  },
+  {
+    "code": "BAM",
+    "name": "Bosnia-Herzegovina Convertible Mark",
+    "region": "EU candidate countries",
+    "symbol": "KM"
+  },
+  {
+    "code": "MDL",
+    "name": "Moldova Leu",
+    "region": "EU candidate countries",
+    "symbol": "lei"
+  },
+  {
+    "code": "MKD",
+    "name": "North Macedonia Denar",
+    "region": "EU candidate countries",
+    "symbol": "ден"
+  },
+  {
+    "code": "ALL",
+    "name": "Albania Lek",
+    "region": "EU candidate countries",
+    "symbol": "Lek"
+  },
+  {
+    "code": "RSD",
+    "name": "Serbia Dinar",
+    "region": "EU candidate countries",
+    "symbol": "din"
+  },
+  {
+    "code": "TRY",
+    "name": "Turkey Lira",
+    "region": "EU candidate countries",
+    "symbol": "₺"
+  },
+  {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia",
+    "region": "EU candidate countries",
+    "symbol": "₴"
+  },
+  {
+    "code": "GBP",
+    "name": "United Kingdom Pound Sterling",
+    "region": "Other European countries",
+    "symbol": "£"
+  },
+  {
+    "code": "JPY",
+    "name": "Japan Yen",
+    "region": "Non-European countries",
+    "symbol": "¥"
+  },
+  {
+    "code": "USD",
+    "name": "United States Dollar",
+    "region": "Non-European countries",
+    "symbol": "$"
+  }
+]
